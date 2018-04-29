@@ -21,7 +21,7 @@ status.font = SansSerif,plain,12
 # settings for the tabs at the top
 # (tab images are stored in the lib/theme folder)
 header.bgcolor = #404040
-header.text.selected.color = #323232
+header.text.selected.color = #FFFFFF
 header.text.unselected.color = #3C3C3C
 header.text.font = SansSerif,plain,12
 
