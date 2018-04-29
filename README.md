@@ -3,7 +3,7 @@ DarkDuino: A dark theme for Arduino
 
 Only tested with 1.9.0
 
-Base on previous work by [Jeffrey Thompsonfeel](http://www.jeffreythompson.org)
+Base on previous work by [Jeffrey Thompson](http://www.jeffreythompson.org)
 
 ![screenshot](https://raw.githubusercontent.com/lmihalkovic/darkduino/master/sample.png)
 
