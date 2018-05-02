@@ -31,6 +31,8 @@ console.font.macosx = Monaco,plain,10
 console.color = #000000
 console.output.color = #eeeeee
 console.error.color = #E34C00
+console.link.error.color = #e38100
+console.link.warning.color = #a6d000
 
 # GUI - BUTTONS
 buttons.bgcolor = #505050
@@ -48,7 +50,7 @@ editor.fgcolor = #ffffff
 editor.bgcolor = #202020
 
 # highlight for the current line
-editor.linehighlight.color=#333333
+editor.linehighlight.color=#9900C0
 # highlight for the current line
 editor.linehighlight=true
 
