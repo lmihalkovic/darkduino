@@ -17,6 +17,7 @@ Released under [Creative Commons BY-NC-SA license](http://creativecommons.org/li
 
 ### History
 
+1.0.3 Change console font colors per @jockm suggestion
 1.0.2 Customize the error/warning links in the console (1.9.0-LM only)
 	  Gradle
 1.0.1 Change tab color

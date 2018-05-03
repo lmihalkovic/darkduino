@@ -30,9 +30,11 @@ console.font = Monospaced,plain,11
 console.font.macosx = Monaco,plain,10
 console.color = #000000
 console.output.color = #eeeeee
-console.error.color = #E34C00
-console.link.error.color = #e38100
-console.link.warning.color = #a6d000
+console.error.color = #FF8300
+console.link.error.color = #ffe900
+console.link.warning.color = #3fd700
+#console.link.error.color = #e38100
+#console.link.warning.color = #a6d000
 
 # GUI - BUTTONS
 buttons.bgcolor = #505050
